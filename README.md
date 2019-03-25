@@ -9,3 +9,13 @@ Den nemmeste måde at installere både Pythpn 3.x og Jupyter er at hente pakken 
 Følglinket for at installere Anaconda:
 
 https://www.anaconda.com
+
+## FAQ
+
+Jupyter Notebook åbnes i Sublime Text. (Windows)
+
+For at løse dette følg denne guide der eksplicit sætter jeres ønskede browsder som default i stedet for Sublime Text.
+
+https://support.anaconda.com/customer/en/portal/articles/2925919-change-default-browser-in-jupyter-notebook
+
+Metoden er valideret og virker.
